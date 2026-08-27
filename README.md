@@ -5,7 +5,7 @@ I build robust, high-quality web applications with a focus on AI integration and
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azakhardev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=azakhardev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🚀 Quick Overview
