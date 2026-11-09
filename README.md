@@ -12,7 +12,7 @@ I build robust, high-quality web applications with a focus on AI integration and
 
 * 💼 **Agile Intern** @ **Raiffeisenbank** (Fullstack & AI).
 * 🎓 **Informatics & Statistics** Student @ **VŠE**.
-* 📱 Developing **[REDACTED]** and **Financial Web App** with a custom design system.
+* 📱 Developing **[REDACTED]** and **AI Code Review Tool** with a custom design system.
 * 🔍 Deep-diving into **SEO**, **Spring Boot**, and **Web Optimization**.
 * 🧠 **LeetCode** enthusiast — writing clean, efficient algorithms.
 
